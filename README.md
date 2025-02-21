@@ -5,4 +5,4 @@ make SpMV/SpMSpV/SpMM/SpGEMM
 ./dist/Sim <matrix.mtx>
 ```
 
-NOTE: The generated simulation results need to be merged with Accel-Sim to obtain a complete delay evaluation result.
+NOTE: The generated simulation results need to be integrated with Accel-Sim to obtain a comprehensive delay evaluation.
